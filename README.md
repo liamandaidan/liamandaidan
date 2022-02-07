@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋  
+🏫 I'm in my last semester at SAIT ITSD  
 🔭 I’m currently working on school projects like HomeHospital!  
 🌱 I’m currently learning Python, React, NodeJs, MongoDB.  
 💬 Most confident in Java, been programming in it since 2016 on and off.  
