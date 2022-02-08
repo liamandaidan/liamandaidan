@@ -5,6 +5,9 @@
 💬 Most confident in Java, been programming in it since 2016 on and off.  
 ⚡ Hobbies: Ski racing/coaching, rock climbing, competitive video games, various TCG, and programmer by night 🦉  
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=liamandaidan)](https://git.io/streak-stats)
 
