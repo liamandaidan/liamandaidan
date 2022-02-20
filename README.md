@@ -6,8 +6,6 @@
 ⚡ Hobbies: Ski racing/coaching, rock climbing, competitive video games, various TCG, and programmer by night 🦉  
 <!--START_SECTION:waka-->
 ```text
-Total: 9 hrs 27 mins
-
 JavaScript   5 hrs 17 mins   ██████████████░░░░░░░░░░░   55.97 % 
 Python       2 hrs 56 mins   ███████▓░░░░░░░░░░░░░░░░░   31.16 % 
 Java         38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
