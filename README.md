@@ -1,10 +1,10 @@
 ### Hi there 👋  
-🏫 I have my diploma in Informatation Technology Software Development from SAIT.
-🔭 I’m currently looking for work.
-🌱 I’m currently learning how to create mods for games.
-💬 Most confident in Java, been programming in it since 2016 on and off.  
-⚡ Hobbies: Ski racing/coaching, rock climbing, competitive video games, various TCG, and programmer by night 🦉  
-✈️ Known languages: Python, Java, React, Node, JS, rusty with c++. 
+🏫 I have my diploma in Informatation Technology Software Development from SAIT.  
+🔭 I’m currently looking for work.  
+🌱 I’m currently learning how to create mods for games.  
+💬 Most confident in Java, been programming in it since 2016 on and off.    
+⚡ Hobbies: Ski racing/coaching, rock climbing, competitive video games, various TCG, and programmer by night 🦉    
+✈️ Known languages: Python, Java, React, Node, JS, rusty with c++.   
 <!--START_SECTION:waka-->
 
 ```text
