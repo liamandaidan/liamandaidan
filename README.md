@@ -5,7 +5,7 @@
 💬 Most confident in Java, been programming in it since 2016 on and off.    
 ⚡ Hobbies: Ski racing/coaching, rock climbing, competitive video games, various TCG, and programmer by night 🦉    
 ✈️ Known languages: Python, Java, React, Node, JS, rusty with c++.   
-https://wakatime.com/badge/user/0faaefc2-6c25-440d-9987-812d347cadb8.svg
+[![wakatime](https://wakatime.com/badge/user/0faaefc2-6c25-440d-9987-812d347cadb8.svg)](https://wakatime.com/@0faaefc2-6c25-440d-9987-812d347cadb8)
 <!--START_SECTION:waka-->
 
 ```text
