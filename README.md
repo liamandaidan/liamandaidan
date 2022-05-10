@@ -9,7 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON       38 mins         ███████████████▒░░░░░░░░░   60.82 %
+Java       24 mins         █████████▓░░░░░░░░░░░░░░░   38.32 %
+TOML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
