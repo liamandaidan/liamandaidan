@@ -9,7 +9,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java   0 secs          █████████████████████████   100.00 %
+JSON            1 hr 39 mins    ████████████████████▒░░░░   81.62 %
+Java            21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.85 %
+AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
