@@ -11,10 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             10 hrs 9 mins   █████████████████████████   99.69 %
-Kotlin           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Java             7 hrs 30 mins   █████████████████████████   99.92 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
