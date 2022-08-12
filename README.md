@@ -1,10 +1,10 @@
 ### Hi there 👋  
 🏫 I have my diploma in Informatation Technology Software Development from SAIT.  
 🔭 I’m currently looking for work.  
-🌱 I’m currently learning how to create mods for games.  
+🌱 I’m currently learning how to use Node better.  
 💬 Most confident in Java, been programming in it since 2016 on and off.    
 ⚡ Hobbies: Ski racing/coaching, rock climbing, Esports, various TCG, and programmer by night 🦉    
-✈️ Known languages: Python, Java, React, Node, JS, rusty with c++.     
+✈️ Known languages: Python, Java, React, JS, rusty with c++.     
 🥇 Portfolio: https://liamandaidan.github.io/Portfolio_Website  
 📺 YouTube: https://www.youtube.com/channel/UCm6rbFOYTzjjxUcmWpC0tQg/featured
 
