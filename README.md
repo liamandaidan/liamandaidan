@@ -20,7 +20,5 @@ systemd      0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 [![wakatime](https://wakatime.com/badge/user/0faaefc2-6c25-440d-9987-812d347cadb8.svg)](https://wakatime.com/@0faaefc2-6c25-440d-9987-812d347cadb8)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liamandaidan&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liamandaidan&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&fire=DD1F15&ring=64DD9F)](https://git.io/streak-stats)
 
