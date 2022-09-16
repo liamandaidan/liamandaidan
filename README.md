@@ -10,15 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 41 mins   ████████████████▓░░░░░░░░   67.06 %
-YAML         3 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
-JSON         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-HTML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   8 hrs 36 mins   ███████████████░░░░░░░░░░   59.99 %
+YAML         4 hrs 48 mins   ████████▒░░░░░░░░░░░░░░░░   33.50 %
+JSON         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+HTML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
-[![wakatime](https://wakatime.com/badge/user/0faaefc2-6c25-440d-9987-812d347cadb8.svg)](https://wakatime.com/@0faaefc2-6c25-440d-9987-812d347cadb8)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=liamandaidan&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&fire=DD1F15&ring=64DD9F)](https://git.io/streak-stats)
 
 <!--END_SECTION:waka-->
 
