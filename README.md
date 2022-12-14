@@ -3,7 +3,7 @@
 🔭 I’m currently working for interGen Studio!  
 💬 Most confident in Java, been programming in it since 2016 on and off.    
 ⚡ Hobbies: Ski racing/coaching, rock climbing, Esports, various TCG, and programmer by night 🦉    
-✈️ Known languages: Python, Java, React, JS, rusty with c++.     
+✈️ Known languages: Python, Java, Angular, MongoDB, NodeJs, React  
 🥇 Portfolio: https://liamandaidan.github.io/Portfolio_Website  
 📺 YouTube: https://www.youtube.com/channel/UCm6rbFOYTzjjxUcmWpC0tQg/featured
 
