@@ -10,5 +10,5 @@
 📺 YouTube: https://www.youtube.com/channel/UCm6rbFOYTzjjxUcmWpC0tQg/featured  
   
 [![liamandaidan's GitHub stats](https://github-readme-stats.vercel.app/api?username=liamandaidan&count_private=true&show_icons=true&theme=radical)](https://github.com/liamandaidan)  
-[![liamandaidan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liamandaidan&langs_count=7&theme=radical)](https://github.com/liamandaidan/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamandaidan&layout=compact&langs_count=6&theme=radical)](https://github.com/liamandaidan/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liamandaidan&layout=compact&langs_count=6&theme=radical&hide=html)](https://github.com/liamandaidan/github-readme-stats)  
+[![liamandaidan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=liamandaidan&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
